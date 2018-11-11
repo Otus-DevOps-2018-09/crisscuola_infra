@@ -5,5 +5,5 @@
       "machine_type": "f1-micro"
       "image_desc": "description",
       "disk_type": "pd-standard",
-      "disk_size": "10",
+      "disk_size": "10"
     }
